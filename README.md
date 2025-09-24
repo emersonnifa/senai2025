@@ -1,1 +1,1 @@
-# senai2025
+# Repositório com materiáis de aulas (slides, códigos, desafios e atividades) e links rápidos
