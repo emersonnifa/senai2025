@@ -1,6 +1,6 @@
-#Repositório com materiáis de aulas (slides, códigos, desafios e atividades) e links rápidos
+Repositório com materiáis de aulas (slides, códigos, desafios e atividades) e links rápidos
 
-##Links Rápidos
+Links Rápidos
 
 * Portal Educacional          - https://pess.sesisenaispedu.org.br/
 * Sistema Indústria           - (https://universidadecorporativa.cni.com.br/)
@@ -11,13 +11,13 @@
 * Portal de Indicadores       - [https://portalindicadores.sp.senai.br/]
 * Senai Track                 - [https://senaitrack.netlify.app]
 
-##Cursos
+Cursos
 
-###Cursos Técnicos
+Cursos Técnicos
 
 * Técnico em Multimídia (1200 horas)
 
-### Cursos FIC (Formação Inicial Continuada)
+Cursos FIC (Formação Inicial Continuada)
 
 * Excel Básico, Avançado
 * Power BI
