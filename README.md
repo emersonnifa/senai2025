@@ -11,7 +11,7 @@
 * Portal de Indicadores       - [https://portalindicadores.sp.senai.br/]
 * Senai Track                 - [https://senaitrack.netlify.app]
 
-##C ursos
+## Cursos
 
 ### Cursos Técnicos
 
