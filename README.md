@@ -1,4 +1,4 @@
-#Repositório com materiáis de aulas (slides, códigos, desafios e atividades) e links rápidos#
+#Repositório com materiáis de aulas (slides, códigos, desafios e atividades) e links rápidos
 
 ##Links Rápidos
 
@@ -14,9 +14,11 @@
 ##Cursos
 
 ###Cursos Técnicos
+
 * Técnico em Multimídia (1200 horas)
 
 ### Cursos FIC (Formação Inicial Continuada)
+
 * Excel Básico, Avançado
 * Power BI
 * Computação em Nuvem
