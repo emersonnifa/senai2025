@@ -15,7 +15,7 @@
 
 ### Cursos Técnicos
 
-* Técnico em Multimídia (1200 horas)
+* [Técnico em Multimídia (1200 horas)}(https://github.com/emersonnifa/senai2025/blob/main/tecnico-em-multimidia.md)
 
 ### Cursos FIC (Formação Inicial Continuada)
 
