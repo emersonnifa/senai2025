@@ -2,11 +2,11 @@
 
 ## Links Rápidos
 
-* Portal Educacional          - https://pess.sesisenaispedu.org.br/
+* [Portal Educacional](https://pess.sesisenaispedu.org.br/)
 * [Cursos UniCorp](https://universidadecorporativa.cni.com.br/)
 * [Intranet SESI/SENAI](https://sesisenaisp.sharepoint.com/sites/intranet/SitePages/Home.aspx)
 * [Portal RH](https://portalrh.sesisenaisp.org.br/arte/)
-* Portal Educação Online      - [https://ead.sp.senai.br/]
+* [Portal Educação EAD](https://ead.sp.senai.br/)
 * [GED (Gerência de Educação)](https://sesisenaisp.sharepoint.com/sites/NovaGED/)
 * [Portal de Indicadores](https://portalindicadores.sp.senai.br/)
 * [Senai Track](https://senaitrack.netlify.app)
