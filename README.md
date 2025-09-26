@@ -29,6 +29,6 @@
   Repositório em construção...
 
 ## Calendários
-
-
+![Calendário Escolar 2025-5 90 Araras_page-0001](https://github.com/user-attachments/assets/334f260d-1e63-4046-acf7-3c829b568507)
+![Calendário Escolar 2025-5 90 Araras_page-0002](https://github.com/user-attachments/assets/39b20510-8d59-44b1-b146-82874ae98409)
 
