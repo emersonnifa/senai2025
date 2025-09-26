@@ -29,6 +29,6 @@
   Repositório em construção...
 
 ## Calendários
-* [Araras] (https://github.com/emersonnifa/senai2025/blob/main/calendario-araras.md)
+* [Araras](https://github.com/emersonnifa/senai2025/blob/main/calendario-araras.md)
 * Calendário Leme
 * Calendário Pirassununga
