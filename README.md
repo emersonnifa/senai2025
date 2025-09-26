@@ -30,5 +30,5 @@
 
 ## Calendários
 * [Araras](https://github.com/emersonnifa/senai2025/blob/main/calendario-araras.md)
-* [Leme]()
-* [Pirassununga]()
+* [Leme](https://github.com/emersonnifa/senai2025/blob/main/calendario-leme.md)
+* [Pirassununga](https://github.com/emersonnifa/senai2025/blob/main/calendario-pirassununga.md)
